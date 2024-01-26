@@ -1,9 +1,9 @@
-###**Title: "Bitcoin Price Forecasting Using N-BEATS Algorithm"**
+# **Title: "Bitcoin Price Forecasting Using N-BEATS Algorithm"**
 
-##**Description**:
-This project centered on leveraging the N-BEATS algorithm from Research paper(https://arxiv.org/abs/1905.10437) to forecast Bitcoin prices, offering a robust methodology for predictive analysis in the cryptocurrency market.
+## **Description**:
+This project centered on leveraging the N-BEATS algorithm from a Research paper(https://arxiv.org/abs/1905.10437) to forecast Bitcoin prices, offering a robust methodology for predictive analysis in the cryptocurrency market.
 
-##**Key Highlights**:
+## **Key Highlights**:
 
 1. Data Preparation: Historical Bitcoin price data was processed and organized into appropriate input sequences, facilitating the training of the N-BEATS algorithm.
 2. N-BEATS Implementation: The project extensively implemented the N-BEATS algorithm, a cutting-edge deep learning architecture designed for time series forecasting tasks.
@@ -20,10 +20,10 @@ This project centered on leveraging the N-BEATS algorithm from Research paper(ht
    This project showcases the efficacy of the N-BEATS algorithm as a powerful tool for accurate and reliable Bitcoin price forecasting, empowering investors and analysts with valuable 
    insights into cryptocurrency market dynamics and trends.
 
-##**Model Architecture**
+## **Model Architecture**
 ![model (1)](https://github.com/charanj15076/BitPredict_Forecast/assets/37012040/c71ecf45-e6cf-461f-b1b8-14cade11732f)
 
 
-##**Results **
+## **Results **
 
 ![results](https://github.com/charanj15076/BitPredict_Forecast/assets/37012040/7d523c08-6842-4c0c-8e39-ada9a269b52d)
